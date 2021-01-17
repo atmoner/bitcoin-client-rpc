@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/atmoner/bitcoin-client-rpc.git"
   },
-  "keywords": [],
+  "keywords": [
+	"btc",
+    "jsonrpc",
+    "bitcoin"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
